@@ -1,0 +1,1 @@
+{"version":3,"file":"ticketController.mjs","sourceRoot":"","sources":["../../src/routes/ticketController.mts"],"names":[],"mappings":"AAAA,OAAO,OAAO,MAAM,SAAS,CAAA;AAC7B,MAAM,MAAM,GAAG,OAAO,CAAC,MAAM,EAAE,CAAA;AAE/B,OAAO,EAAE,aAAa,EAAE,MAAM,qCAAqC,CAAA;AAEnE,MAAM;KACH,KAAK,CAAC,MAAM,CAAC;KACb,GAAG,CAAC,aAAa,CAAC,CAAA;AAErB,eAAe,MAAM,CAAA"}
